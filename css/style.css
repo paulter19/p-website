@@ -1,0 +1,41 @@
+.homeImage{
+	width: 50%;
+}
+.aboutMe{
+	width: 40%;
+	float: right;
+}
+p{
+	font-weight: bold;
+	font-size: 1.4rem;
+}
+.projectImg{
+	width: 75%;
+	margin: auto;
+	border-radius: 1%;
+}
+
+
+
+h1{
+		text-align: center;
+		margin-bottom: 2%;
+}
+.projectDescr{
+	font-size: 1rem;
+}
+.row{
+	margin-top: 5%;
+}
+#gitHubLink{
+	text-align: center;
+
+}
+#resumeDownload{
+	margin-top: 4%;
+	margin-left: 45%;
+}
+.main{
+width: 80%;
+margin: auto;
+}
