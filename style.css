@@ -1,140 +1,41 @@
-
-body{
-	margin: 0;
+.homeImage{
+	width: 50%;
 }
-.container{
-	width: 780px;
-	margin:0 auto;
-	background: #FFFF;
-	box-shadow: 0px 9px 13px 5px;
-
+.aboutMe{
+	width: 40%;
+	float: right;
 }
-.header{
-	padding: 45px 0 20px 40px;
-	border: 2px solid black;
+p{
+	font-weight: bold;
+	font-size: 1.4rem;
 }
-.header a{
-	text-decoration: none;
-	font-size: 24px;
-	color:#444444;
-}
-.menu{
-	background-color: #3b7687;
-	padding: 6px 0 6px 40px;
-}
-.menu a{
-	color: #c5d6db;
-	text-decoration: none;
-	font-size: 14px;
-
-}
-.menu a:hover{
-	color: #FFF;
+.projectImg{
+	width: 75%;
+	margin: auto;
+	border-radius: 1%;
 }
 
-aside{
-		text-align: center;
 
-	float: left;
-	width: 120px;
-	padding: 30px 0 0 40px;
-}
-.side-menu-list {
-	list-style-type: none;
-
-}
-.side-menu-list a{
-	text-align: center;
-			color: #869843;
-
-
-}
-.side-menu-list li{
-	margin-top: 5px;
-
-
-}
 
 h1{
-	margin: 0;
-	color: #869843;
-	font-size: 24px;
-	font-weight: normal;
+		text-align: center;
+		margin-bottom: 2%;
+}
+.projectDescr{
+	font-size: 1rem;
+}
+.row{
+	margin-top: 5%;
+}
+#gitHubLink{
 	text-align: center;
-}
-h2{
-	color: #3b7687;
-	font-size: 15px;
-	margin: 20px 0 5px 0;
-}
-#projects img{
-	width: 150px;
-}
 
-#projects span{
-
-	font-weight: bold;
-	font-size: 20px;
 }
-.appTitle{
-	margin-left: 10%;
-
-
+#resumeDownload{
+	margin-top: 4%;
+	margin-left: 45%;
 }
 .main{
-	margin: 0 0 0 180px;
-	padding: 35px 40px 30px 0px;
-	color:  #444444;
-	line-height: 18px;
-
+width: 80%;
+margin: auto;
 }
-.main a:hover{
-	color: white;
-}
-
-.main p{
-	font-weight: bold;
-	width: 70%;
-}
-footer{
-	padding: 6px 40px 6px 40px;
-	background: #d6d6d6;
-	font-size: 11px;
-	text-decoration: right;
-	font-family: "Lucida Sans Unicode";
-}
-footer a{
-	color: blue;
-
-}
-
-/****************About Page Styles****************/
-.home-image img{
-	height: 30%; 
-}
-
-/****************Contact Page Styles****************/
-#form{
-	width: 75%;
-	border: 2px solid black;
-	margin: 0 auto;
-	padding:5%;
-	box-shadow: 0px 9px 13px 5px;
-	border-radius: 5px;
-
-
-}
-#form input{
-	width: 100%;
-	border-radius: 5px;
-	height: 20px;
-	background: #d6d6d6;
-}
-
-#form #submit{
-	height:30px;
-	background-color: rgb(59,118,135);
-	color: white;
-}
-
-
